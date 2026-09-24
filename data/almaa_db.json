@@ -1,0 +1,3234 @@
+{
+  "users": [
+    {
+      "id": "u-1",
+      "name": "Ust. Hendra Syambasri, M.Pd.",
+      "email": "hendrasyambasri@gmail.com",
+      "role": "SUPER_ADMIN",
+      "roleLabel": "Super Administrator Sistem",
+      "phone": "085876677647",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "assignedRoomIds": [
+        "room-1",
+        "room-4"
+      ]
+    },
+    {
+      "id": "u-2",
+      "name": "Ust. Baba",
+      "email": "",
+      "role": "GURU",
+      "roleLabel": "Dewan Asatidz / Guru",
+      "phone": "",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "assignedRoomIds": [
+        "room-1",
+        "room-2",
+        "room-3",
+        "room-4"
+      ]
+    },
+    {
+      "id": "u-3",
+      "name": "Ust. Aday Kodarudin",
+      "email": "aday@almaa.sch.id",
+      "role": "PIMPINAN",
+      "roleLabel": "Pimpinan Pondok Pesantren",
+      "phone": "",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "assignedRoomIds": [
+        "room-2"
+      ]
+    },
+    {
+      "id": "u-4",
+      "name": "Ust. Jamhuri",
+      "email": "",
+      "role": "GURU",
+      "roleLabel": "Dewan Asatidz / Guru",
+      "phone": "",
+      "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=150&auto=format&fit=crop&q=80",
+      "assignedRoomIds": [
+        "room-3"
+      ]
+    },
+    {
+      "id": "u-5",
+      "name": "Ust. Rauf",
+      "email": "",
+      "role": "PENGASUH",
+      "roleLabel": "Pengasuh Asrama (Musyrif)",
+      "phone": "",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80",
+      "assignedRoomIds": []
+    },
+    {
+      "id": "u-6",
+      "name": "Ustadzah Erina",
+      "email": "",
+      "role": "PENGASUH",
+      "roleLabel": "Pengasuh Asrama (Musyrif)",
+      "phone": "",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "assignedRoomIds": []
+    },
+    {
+      "id": "u-7",
+      "name": "Admin Sistem Almaa",
+      "email": "admin@almaa.sch.id",
+      "role": "SUPER_ADMIN",
+      "roleLabel": "Administrator IT Almaa Care OS",
+      "phone": "0812-0000-1111",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+      "assignedRoomIds": [
+        "room-1",
+        "room-2",
+        "room-3",
+        "room-4"
+      ]
+    }
+  ],
+  "students": [
+    {
+      "id": "std-1789980552785-452",
+      "nis": "0552025",
+      "name": "Muhammad yusuf ramadhan",
+      "nickname": "yusuf",
+      "photo": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=150&auto=format&fit=crop&q=80",
+      "class": "Kelas 8A",
+      "roomId": "room-1",
+      "roomNumber": "01",
+      "group": "ust. baba",
+      "guardianName": "Wali Santri",
+      "guardianPhone": "081234567890",
+      "status": "HADIR",
+      "attendanceRate": 100,
+      "violationCount": 0,
+      "coachingCount": 0,
+      "appreciationCount": 0,
+      "notes": "Santri baru terdaftar"
+    },
+    {
+      "id": "std-1789980600304-215",
+      "nis": "20247595",
+      "name": "Muhammad Malik akil",
+      "nickname": "malik",
+      "photo": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=150&auto=format&fit=crop&q=80",
+      "class": "Kelas 8A",
+      "roomId": "room-1",
+      "roomNumber": "01",
+      "group": "ust baba",
+      "guardianName": "Wali Santri",
+      "guardianPhone": "081234567890",
+      "status": "HADIR",
+      "attendanceRate": 100,
+      "violationCount": 0,
+      "coachingCount": 0,
+      "appreciationCount": 0,
+      "notes": "Santri baru terdaftar"
+    },
+    {
+      "id": "std-1789980645584-254",
+      "nis": "20243799",
+      "name": "Muhammad damarudin dahlan",
+      "nickname": "damar",
+      "photo": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=150&auto=format&fit=crop&q=80",
+      "class": "Kelas 8A",
+      "roomId": "room-1",
+      "roomNumber": "01",
+      "group": "ust baba",
+      "guardianName": "Wali Santri",
+      "guardianPhone": "081234567890",
+      "status": "HADIR",
+      "attendanceRate": 100,
+      "violationCount": 0,
+      "coachingCount": 0,
+      "appreciationCount": 0,
+      "notes": "Santri baru terdaftar"
+    },
+    {
+      "id": "std-1789980676384-232",
+      "nis": "20246616",
+      "name": "Zafran Alkhairi",
+      "nickname": "zafran",
+      "photo": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=150&auto=format&fit=crop&q=80",
+      "class": "Kelas 8A",
+      "roomId": "room-1",
+      "roomNumber": "01",
+      "group": "Halaqah 1",
+      "guardianName": "Wali Santri",
+      "guardianPhone": "081234567890",
+      "status": "HADIR",
+      "attendanceRate": 100,
+      "violationCount": 0,
+      "coachingCount": 0,
+      "appreciationCount": 0,
+      "notes": "Santri baru terdaftar"
+    },
+    {
+      "id": "std-1789980719319-579",
+      "nis": "20246976",
+      "name": "Ibrahim",
+      "nickname": "Ibrahim",
+      "photo": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=150&auto=format&fit=crop&q=80",
+      "class": "Kelas 8A",
+      "roomId": "room-1",
+      "roomNumber": "01",
+      "group": "Halaqah 1",
+      "guardianName": "Wali Santri",
+      "guardianPhone": "081234567890",
+      "status": "HADIR",
+      "attendanceRate": 100,
+      "violationCount": 0,
+      "coachingCount": 0,
+      "appreciationCount": 0,
+      "notes": "Santri baru terdaftar"
+    },
+    {
+      "id": "std-1789980771077-498",
+      "nis": "20242616",
+      "name": "Rofiq Al Akhyar",
+      "nickname": "opik",
+      "photo": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=150&auto=format&fit=crop&q=80",
+      "class": "Kelas 8A",
+      "roomId": "room-1",
+      "roomNumber": "01",
+      "group": "ust baba",
+      "guardianName": "Wali Santri",
+      "guardianPhone": "081234567890",
+      "status": "HADIR",
+      "attendanceRate": 100,
+      "violationCount": 0,
+      "coachingCount": 0,
+      "appreciationCount": 0,
+      "notes": "Santri baru terdaftar"
+    },
+    {
+      "id": "std-1789980806385-624",
+      "nis": "20241216",
+      "name": "Rakha Hamdi",
+      "nickname": "hamdi",
+      "photo": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=150&auto=format&fit=crop&q=80",
+      "class": "Kelas 9A",
+      "roomId": "room-1",
+      "roomNumber": "01",
+      "group": "Halaqah 1",
+      "guardianName": "Wali Santri",
+      "guardianPhone": "081234567890",
+      "status": "HADIR",
+      "attendanceRate": 100,
+      "violationCount": 0,
+      "coachingCount": 0,
+      "appreciationCount": 0,
+      "notes": "Santri baru terdaftar"
+    },
+    {
+      "id": "std-1789980838282-373",
+      "nis": "20249248",
+      "name": "Muhammad Syafiq Ramadhan",
+      "nickname": "syafiq",
+      "photo": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=150&auto=format&fit=crop&q=80",
+      "class": "Kelas 9A",
+      "roomId": "room-1",
+      "roomNumber": "01",
+      "group": "Halaqah 1",
+      "guardianName": "Wali Santri",
+      "guardianPhone": "081234567890",
+      "status": "HADIR",
+      "attendanceRate": 100,
+      "violationCount": 0,
+      "coachingCount": 0,
+      "appreciationCount": 0,
+      "notes": "Santri baru terdaftar"
+    },
+    {
+      "id": "std-1789980975867-861",
+      "nis": "20248437",
+      "name": "Lukman Hakim",
+      "nickname": "lukman",
+      "photo": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=150&auto=format&fit=crop&q=80",
+      "class": "Kelas 9A",
+      "roomId": "room-1",
+      "roomNumber": "01",
+      "group": "Halaqah 1",
+      "guardianName": "Wali Santri",
+      "guardianPhone": "081234567890",
+      "status": "HADIR",
+      "attendanceRate": 100,
+      "violationCount": 0,
+      "coachingCount": 0,
+      "appreciationCount": 0,
+      "notes": "Santri baru terdaftar"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "room-1",
+      "number": "01",
+      "name": "Kamar Abu Bakar Ash-Shiddiq",
+      "floor": 1,
+      "capacity": 6,
+      "occupantCount": 9,
+      "supervisorId": "u-1",
+      "supervisorName": "Ust. Ahmad Fauzi",
+      "headStudentId": "st-1",
+      "headStudentName": "Ahmad Rayhan Firdaus",
+      "status": "NORMAL",
+      "lastInspectionDate": "2026-09-17 05:45",
+      "scoreClean": 95,
+      "scoreTidy": 92,
+      "scoreOrderly": 94,
+      "scoreSafety": 100,
+      "averageScore": 95,
+      "facilities": [
+        "6 Ranjang Tingkat",
+        "6 Lemari Locker",
+        "2 Kipas Angin Dinding",
+        "Rak Sandal",
+        "Gantungan Handuk"
+      ]
+    },
+    {
+      "id": "room-2",
+      "number": "02",
+      "name": "Kamar Umar bin Khattab",
+      "floor": 1,
+      "capacity": 6,
+      "occupantCount": 0,
+      "supervisorId": "u-3",
+      "supervisorName": "Ust. Budi Prasetyo",
+      "headStudentId": "st-6",
+      "headStudentName": "Yusuf Ibrahim Malik",
+      "status": "NORMAL",
+      "lastInspectionDate": "2026-09-17 05:50",
+      "scoreClean": 88,
+      "scoreTidy": 86,
+      "scoreOrderly": 90,
+      "scoreSafety": 95,
+      "averageScore": 90,
+      "facilities": [
+        "6 Ranjang Tingkat",
+        "6 Lemari Locker",
+        "2 Kipas Angin Dinding",
+        "Rak Sandal",
+        "Gantungan Handuk"
+      ]
+    },
+    {
+      "id": "room-3",
+      "number": "03",
+      "name": "Kamar Utsman bin Affan",
+      "floor": 2,
+      "capacity": 6,
+      "occupantCount": 0,
+      "supervisorId": "u-4",
+      "supervisorName": "Ust. Candra Wijaya",
+      "headStudentId": "st-11",
+      "headStudentName": "Umar Syarif Hidayat",
+      "status": "NEEDS_ATTENTION",
+      "lastInspectionDate": "2026-09-17 05:55",
+      "scoreClean": 72,
+      "scoreTidy": 68,
+      "scoreOrderly": 75,
+      "scoreSafety": 85,
+      "averageScore": 75,
+      "facilities": [
+        "6 Ranjang Tingkat",
+        "6 Lemari Locker",
+        "2 Kipas Angin Dinding (1 Mati)",
+        "Rak Sandal",
+        "Gantungan Handuk"
+      ]
+    },
+    {
+      "id": "room-4",
+      "number": "04",
+      "name": "Kamar Ali bin Abi Thalib",
+      "floor": 2,
+      "capacity": 6,
+      "occupantCount": 0,
+      "supervisorId": "u-1",
+      "supervisorName": "Ust. Ahmad Fauzi",
+      "headStudentId": "st-16",
+      "headStudentName": "Abdullah Azzam Hakim",
+      "status": "NORMAL",
+      "lastInspectionDate": "2026-09-18 05:37",
+      "scoreClean": 85,
+      "scoreTidy": 85,
+      "scoreOrderly": 90,
+      "scoreSafety": 95,
+      "averageScore": 89,
+      "facilities": [
+        "6 Ranjang Tingkat",
+        "6 Lemari Locker",
+        "2 Kipas Angin Dinding",
+        "Rak Sandal",
+        "Gantungan Handuk"
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "area-1",
+      "name": "Masjid Jami' Al-Ittihad",
+      "type": "IBADAH",
+      "picId": "u-1",
+      "picName": "Ust. Ahmad Fauzi",
+      "inspectionSchedule": "Sebelum & Sesudah Sholat Wajib",
+      "status": "BERSIH",
+      "lastCheckedAt": "2026-09-17 05:30",
+      "notes": "Sajadah tertata rapi, mikrofon berfungsi normal."
+    },
+    {
+      "id": "area-2",
+      "name": "Kamar Mandi & Tempat Wudhu Utama",
+      "type": "SANITASI",
+      "picId": "u-3",
+      "picName": "Ust. Budi Prasetyo",
+      "inspectionSchedule": "06.00 & 17.30",
+      "status": "BERSIH",
+      "lastCheckedAt": "2026-09-17 06:10",
+      "notes": "Lantai kering, sabun dan kaporit tersedia."
+    },
+    {
+      "id": "area-3",
+      "name": "Ruang Makan Santri (Dining Hall)",
+      "type": "KONSUMSI",
+      "picId": "u-4",
+      "picName": "Ust. Candra Wijaya",
+      "inspectionSchedule": "Setelah Sarapan, Makan Siang & Malam",
+      "status": "BERSIH",
+      "lastCheckedAt": "2026-09-17 07:05",
+      "notes": "Meja makan telah disapu dan dipel."
+    },
+    {
+      "id": "area-4",
+      "name": "Gedung Kelas Ibnu Sina",
+      "type": "PENDIDIKAN",
+      "picId": "u-6",
+      "picName": "Ustadzah Sarah Aminah",
+      "inspectionSchedule": "07.00 & 13.00",
+      "status": "BERSIH",
+      "lastCheckedAt": "2026-09-17 06:55",
+      "notes": "Papan tulis bersih, spidol terisi."
+    },
+    {
+      "id": "area-5",
+      "name": "Lapangan Olahraga & Upacara",
+      "type": "OUTDOOR",
+      "picId": "u-3",
+      "picName": "Ust. Budi Prasetyo",
+      "inspectionSchedule": "16.00 & 18.00",
+      "status": "BERSIH",
+      "lastCheckedAt": "2026-09-16 18:00",
+      "notes": "Garis lapangan jelas, bola tersimpan di keranjang."
+    },
+    {
+      "id": "area-6",
+      "name": "Halaman & Koridor Asrama Putra Lantai 1",
+      "type": "ASRAMA",
+      "picId": "u-1",
+      "picName": "Ust. Ahmad Fauzi",
+      "inspectionSchedule": "05.45 & 21.00",
+      "status": "BERSIH",
+      "lastCheckedAt": "2026-09-17 05:45",
+      "notes": "Rak sandal rapi, lantai disapu."
+    },
+    {
+      "id": "area-7",
+      "name": "Koridor Asrama Putra Lantai 2",
+      "type": "ASRAMA",
+      "picId": "u-4",
+      "picName": "Ust. Candra Wijaya",
+      "inspectionSchedule": "05.45 & 21.00",
+      "status": "PERLU_PERHATIAN",
+      "lastCheckedAt": "2026-09-17 06:00",
+      "notes": "Ada jemuran handuk basah di pagar koridor, perlu dipindahkan ke tali jemuran."
+    },
+    {
+      "id": "area-8",
+      "name": "Ruang UKS & Kesehatan",
+      "type": "KESEHATAN",
+      "picId": "u-2",
+      "picName": "Ust. Ridwan Kamiludin",
+      "inspectionSchedule": "08.00, 14.00, 20.00",
+      "status": "BERSIH",
+      "lastCheckedAt": "2026-09-17 08:00",
+      "notes": "1 santri (Hasan Basri) sedang istirahat pemulihan demam."
+    },
+    {
+      "id": "area-9",
+      "name": "Dapur Pondok",
+      "type": "FASILITAS",
+      "picId": "u-2",
+      "picName": "Ust. Ridwan Kamiludin",
+      "inspectionSchedule": "05.00, 11.00, 17.00",
+      "status": "BERSIH",
+      "lastCheckedAt": "2026-09-17 05:00",
+      "notes": "Persiapan makan siang santri tepat waktu."
+    },
+    {
+      "id": "area-10",
+      "name": "Perpustakaan & Ruang Belajar Mandiri",
+      "type": "PENDIDIKAN",
+      "picId": "u-6",
+      "picName": "Ustadzah Sarah Aminah",
+      "inspectionSchedule": "19.00 & 21.00",
+      "status": "BERSIH",
+      "lastCheckedAt": "2026-09-16 21:00",
+      "notes": "Kitab tersusun rapi menurut abjad dan disiplin keilmuan."
+    }
+  ],
+  "activities": [
+    {
+      "id": "act-1",
+      "timeStart": "04:00",
+      "timeEnd": "04:15",
+      "name": "Bangun & Qiyamul Lail (Tahajjud)",
+      "category": "IBADAH",
+      "sopTitle": "SOP Bangun Tidur & Qiyamul Lail",
+      "sopItems": [
+        {
+          "id": "sop-1-1",
+          "label": "Bel bangun asrama dibunyikan tepat pukul 04.00",
+          "completed": true
+        },
+        {
+          "id": "sop-1-2",
+          "label": "Pengasuh menyisir setiap kamar memastikan santri bangun",
+          "completed": true
+        },
+        {
+          "id": "sop-1-3",
+          "label": "Santri melipat selimut dan merapikan bantal",
+          "completed": true
+        },
+        {
+          "id": "sop-1-4",
+          "label": "Santri membaca doa bangun tidur secara bersama/mandiri",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": "act-2",
+      "timeStart": "04:15",
+      "timeEnd": "04:45",
+      "name": "Persiapan Subuh & Wudhu",
+      "category": "IBADAH",
+      "sopTitle": "SOP Wudhu & Menuju Masjid",
+      "sopItems": [
+        {
+          "id": "sop-2-1",
+          "label": "Antrean wudhu berlangsung tertib tanpa bersuara keras",
+          "completed": true
+        },
+        {
+          "id": "sop-2-2",
+          "label": "Memakai pakaian sholat bersih (baju koko putih / sarung)",
+          "completed": true
+        },
+        {
+          "id": "sop-2-3",
+          "label": "Sandal diletakkan teratur di rak sandal masjid",
+          "completed": true
+        },
+        {
+          "id": "sop-2-4",
+          "label": "Santri masuk masjid membaca doa masuk masjid dan sholat tahiyyatul masjid",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": "act-3",
+      "timeStart": "04:45",
+      "timeEnd": "05:30",
+      "name": "Subuh Berjamaah & Dzikir Pagi",
+      "category": "IBADAH",
+      "sopTitle": "SOP Subuh Berjamaah & Absensi Masjid",
+      "sopItems": [
+        {
+          "id": "sop-3-1",
+          "label": "Adzan & Iqamah dikumandangkan tepat waktu",
+          "completed": true
+        },
+        {
+          "id": "sop-3-2",
+          "label": "Shaf sholat lurus dan rapat (dipandu musyrif)",
+          "completed": true
+        },
+        {
+          "id": "sop-3-3",
+          "label": "Dzikir ba'da sholat & pembacaan Al-Matsurat pagi khusyuk",
+          "completed": true
+        },
+        {
+          "id": "sop-3-4",
+          "label": "Checking presensi Subuh oleh musyrif shaf",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": "act-4",
+      "timeStart": "05:30",
+      "timeEnd": "06:30",
+      "name": "Halaqoh Qur'an Pagi",
+      "category": "BELAJAR",
+      "sopTitle": "SOP Halaqoh pagi",
+      "sopItems": [
+        {
+          "id": "sop-4-1",
+          "label": "Santri membentuk halaqoh di tempat musyrif masing-masing",
+          "completed": true
+        },
+        {
+          "id": "sop-4-6",
+          "label": "Santri Wajib mentasmi'kan hafalan baru",
+          "completed": true
+        }
+      ],
+      "hasCheckingDone": true
+    },
+    {
+      "id": "act-1789971248293",
+      "name": "Piket Pagi",
+      "timeStart": "06:30",
+      "timeEnd": "07:00",
+      "category": "KEBERSIHAN",
+      "sopTitle": "SOP PiketPagi",
+      "sopItems": [
+        {
+          "id": "sop-1789971124185-1",
+          "label": "Musyrif standby dan mengecek pekerjaan santri",
+          "completed": true
+        },
+        {
+          "id": "sop-1789971195691-1y69",
+          "label": "Seluruh santri piket di pos masing-masing dengan benar",
+          "completed": true
+        },
+        {
+          "id": "sop-1789971240697-ra68",
+          "label": "Mengambil dan mengembalikan kembali alat kebersihan ditempat yang benar",
+          "completed": true
+        },
+        {
+          "id": "sop-1789971861313-ar85",
+          "label": "Tempat tidur, sandal, dan gantungan baju rapi",
+          "completed": true
+        },
+        {
+          "id": "sop-1789971878611-a144",
+          "label": "Kamar mandi dan area wudhu disikat",
+          "completed": true
+        },
+        {
+          "id": "sop-1789971908731-sa2z",
+          "label": "Masjid dan ruangan kelas dipel",
+          "completed": true
+        },
+        {
+          "id": "sop-1789971937803-vjy8",
+          "label": "Area umum dan taman dibersihkan",
+          "completed": true
+        }
+      ],
+      "hasCheckingDone": true
+    },
+    {
+      "id": "act-1789972262300",
+      "name": "Makan dan  Mandi pagi",
+      "timeStart": "07:00",
+      "timeEnd": "07:45",
+      "category": "HARIAN",
+      "sopTitle": "SOP Mandi",
+      "sopItems": [
+        {
+          "id": "sop-1789971977511-1",
+          "label": "Musyrif standby dan mengecek kegiatan makan santri",
+          "completed": true
+        },
+        {
+          "id": "sop-1789971977511-2",
+          "label": "Memastikan ketertiban dan adab santri terjaga",
+          "completed": true
+        },
+        {
+          "id": "sop-1789972078975-72nx",
+          "label": "Makan setelah semua satri berkumpul, duduk rapi",
+          "completed": true
+        },
+        {
+          "id": "sop-1789972121647-6dlx",
+          "label": "Alat makan langsung dibersihkan setelah selesai makan dan diletakkan pada tempatnya",
+          "completed": true
+        },
+        {
+          "id": "sop-1789972141666-qk6s",
+          "label": "Lokasi makan langusng dibersihkan dan dipel",
+          "completed": true
+        },
+        {
+          "id": "sop-1789972165733-esmv",
+          "label": "Santri mandi dengan tertib, tidak bercanda saat mandi",
+          "completed": true
+        },
+        {
+          "id": "sop-1789972197478-dnjy",
+          "label": "mengganti pakaian di dalam kamar mandi",
+          "completed": true
+        },
+        {
+          "id": "sop-1789972241662-6kje",
+          "label": "Santri tidak boleh menuju kamar mandi tanpa baju dan atau menggunakan celana pendek diatas dengkul",
+          "completed": true
+        },
+        {
+          "id": "sop-1789972258096-ymen",
+          "label": "tidak menginggalkan pakaian kotor di dalam kamar mandi",
+          "completed": true
+        }
+      ],
+      "hasCheckingDone": true
+    },
+    {
+      "id": "act-1789972360880",
+      "name": "KBM 1",
+      "timeStart": "08:00",
+      "timeEnd": "11:30",
+      "category": "HARIAN",
+      "sopTitle": "KBM",
+      "sopItems": [
+        {
+          "id": "sop-1789972390639-edhs",
+          "label": "Santri sudah berada diruangan sebelum pukul 08.00",
+          "completed": true
+        },
+        {
+          "id": "sop-1789972421152-0c16",
+          "label": "Menggunakan seragam sesuai jadwallnya",
+          "completed": true
+        },
+        {
+          "id": "sop-1789972430026-vvnn",
+          "label": "Menggunakan songkok hitam",
+          "completed": true
+        },
+        {
+          "id": "sop-1789972461365-3cbv",
+          "label": "Santri belajar dengan tertib dan santun",
+          "completed": true
+        }
+      ],
+      "hasCheckingDone": true
+    },
+    {
+      "id": "act-7",
+      "timeStart": "11:30",
+      "timeEnd": "13:00",
+      "name": "Dzuhur Berjamaah, Makan Siang & Qailulah",
+      "category": "IBADAH",
+      "sopTitle": "SOP Dzuhur & Qailulah (Istirahat Siang)",
+      "sopItems": [
+        {
+          "id": "sop-7-1",
+          "label": "Adzan Dzuhur tepat waktu di masjid jami'",
+          "completed": true
+        },
+        {
+          "id": "sop-7-2",
+          "label": "Sholat Dzuhur berjamaah & ba'diyah",
+          "completed": true
+        },
+        {
+          "id": "sop-7-3",
+          "label": "Makan siang tertib  seperti sop makan pagi",
+          "completed": true
+        },
+        {
+          "id": "sop-7-4",
+          "label": "Qailulah (tidur siang sunnah) 11.30 - 12.00 di masjid",
+          "completed": true
+        }
+      ],
+      "hasCheckingDone": true
+    },
+    {
+      "id": "act-8",
+      "timeStart": "13:00",
+      "timeEnd": "14:00",
+      "name": "KBM Siang",
+      "category": "BELAJAR",
+      "sopTitle": "SOP Halaqah Siang",
+      "sopItems": [
+        {
+          "id": "sop-8-2",
+          "label": "Duduk membentuk halaqah bersama ustadz pembimbing",
+          "completed": true
+        },
+        {
+          "id": "sop-8-3",
+          "label": "Setoran hafalan baru (ziyadah) atau muroja'ah",
+          "completed": true
+        },
+        {
+          "id": "sop-8-4",
+          "label": "Buku mutaba'ah santri ditandatangani ustadz pembimbing",
+          "completed": true
+        }
+      ],
+      "hasCheckingDone": true
+    },
+    {
+      "id": "act-9",
+      "timeStart": "14:00",
+      "timeEnd": "17:00",
+      "name": "Ashar & Aktivitas Mandiri",
+      "category": "IBADAH",
+      "sopTitle": "SOP Sholat Ashar & Ekstrakurikuler",
+      "sopItems": [
+        {
+          "id": "sop-9-1",
+          "label": "Sholat Ashar berjamaah tepat waktu",
+          "completed": true
+        },
+        {
+          "id": "sop-9-2",
+          "label": "Kegiatan olahraga / bela diri / pramuka / istirahat terkontrol",
+          "completed": true
+        },
+        {
+          "id": "sop-9-3",
+          "label": "Santri tetap berada di dalam area pondok (tidak keluar pagar)",
+          "completed": true
+        },
+        {
+          "id": "sop-1789972669776-xzn3",
+          "label": "Istirahat di kamar masing-masing",
+          "completed": true
+        },
+        {
+          "id": "sop-1789972698346-wzs5",
+          "label": "Sop piket sore seperti piket pagi",
+          "completed": true
+        }
+      ],
+      "hasCheckingDone": true
+    },
+    {
+      "id": "act-10",
+      "timeStart": "17:00",
+      "timeEnd": "18:30",
+      "name": "Mandi Sore & Persiapan Maghrib",
+      "category": "HARIAN",
+      "sopTitle": "SOP Mandi Sore & Makan sore",
+      "sopItems": [
+        {
+          "id": "sop-10-1",
+          "label": "Santri selesai mandi dan sudah berpakaian rapi pukul 17.30",
+          "completed": false
+        },
+        {
+          "id": "sop-10-2",
+          "label": "Lampu kamar dinyalakan, jendela kamar ditutup",
+          "completed": false
+        },
+        {
+          "id": "sop-10-3",
+          "label": "Menuju masjid sebelum adzan Maghrib berkumandang",
+          "completed": false
+        },
+        {
+          "id": "sop-10-4",
+          "label": "SOP mandi dan makan sama seperti  pagi",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "act-11",
+      "timeStart": "18:30",
+      "timeEnd": "20:00",
+      "name": "Kegiatan Malam & Kajian Kitab",
+      "category": "BELAJAR",
+      "sopTitle": "SOP Kajian Kitab / Ta'lim",
+      "sopItems": [
+        {
+          "id": "sop-11-1",
+          "label": "Kajian kitab bersama Asatidz di masjid",
+          "completed": false
+        },
+        {
+          "id": "sop-11-2",
+          "label": "Membawa buku catatan & menyimak penjelasan dengan adab",
+          "completed": false
+        },
+        {
+          "id": "sop-11-3",
+          "label": "Sesi tanya jawab seputar fiqih & adab keseharian, tafsir dan aqidah",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "act-12",
+      "timeStart": "19:30",
+      "timeEnd": "20:45",
+      "name": "Isya Berjamaah & Murojaah",
+      "category": "IBADAH",
+      "sopTitle": "Murojaah Malam",
+      "sopItems": [
+        {
+          "id": "sop-12-1",
+          "label": "Sholat Isya berjamaah & witir",
+          "completed": false
+        },
+        {
+          "id": "sop-12-3",
+          "label": "Kembali ke asrama mempersiapkan buku pelajaran esok hari",
+          "completed": false
+        },
+        {
+          "id": "sop-1789972905823-yww0",
+          "label": "Murojaah atau mempersiapkan halafan baru",
+          "completed": false
+        },
+        {
+          "id": "sop-1789972931577-bo3i",
+          "label": "Murojaah pelajaran untuk besok",
+          "completed": false
+        },
+        {
+          "id": "sop-1789972941935-akvz",
+          "label": "semua santri berada di masjid",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "act-13",
+      "timeStart": "21:00",
+      "timeEnd": "21:30",
+      "name": "Night Checking (Pemeriksaan Malam)",
+      "category": "CHECKING",
+      "sopTitle": "SOP Night Checking 21.15 Asrama Almaa",
+      "sopItems": [
+        {
+          "id": "sop-13-1",
+          "label": "Seluruh santri berada di kamar masing-masing",
+          "completed": false
+        },
+        {
+          "id": "sop-13-2",
+          "label": "Presensi fisik headcount setiap santri di atas ranjang",
+          "completed": false
+        },
+        {
+          "id": "sop-13-3",
+          "label": "Kondisi kesehatan santri dipastikan (apakah ada yang demam/sakit)",
+          "completed": false
+        },
+        {
+          "id": "sop-13-4",
+          "label": "Kunci gerbang dan lampu luar asrama dipastikan aman",
+          "completed": false
+        },
+        {
+          "id": "sop-13-5",
+          "label": "Doa bersama sebelum tidur dipimpin ketua kamar",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "act-14",
+      "timeStart": "21:30",
+      "timeEnd": "03:45",
+      "name": "Tidur & Istirahat Malam",
+      "category": "ISTIRAHAT",
+      "sopTitle": "SOP Istirahat Malam Asrama",
+      "sopItems": [
+        {
+          "id": "sop-14-1",
+          "label": "Lampu utama kamar dipadamkan, ",
+          "completed": false
+        },
+        {
+          "id": "sop-14-2",
+          "label": "Tidak ada suara bising / obrolan santri setelah 21.30",
+          "completed": false
+        },
+        {
+          "id": "sop-14-3",
+          "label": "Musyrif tetap berjaga memastikan santri dalam kondisi tidur hingga 22.00",
+          "completed": false
+        }
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "activityId": "act-9",
+      "activityName": "Ashar & Aktivitas Mandiri",
+      "date": "2026-09-21",
+      "time": "15:59",
+      "inspectorId": "u-superadmin",
+      "inspectorName": "Hendra Syam (Super Admin)",
+      "status": "COMPLETE",
+      "notes": "",
+      "items": [
+        {
+          "id": "sop-9-1",
+          "label": "Sholat Ashar berjamaah tepat waktu",
+          "title": "Sholat Ashar berjamaah tepat waktu",
+          "checked": true
+        },
+        {
+          "id": "sop-9-2",
+          "label": "Kegiatan olahraga / bela diri / pramuka / istirahat terkontrol",
+          "title": "Kegiatan olahraga / bela diri / pramuka / istirahat terkontrol",
+          "checked": true
+        },
+        {
+          "id": "sop-9-3",
+          "label": "Santri tetap berada di dalam area pondok (tidak keluar pagar)",
+          "title": "Santri tetap berada di dalam area pondok (tidak keluar pagar)",
+          "checked": true
+        },
+        {
+          "id": "sop-1789972669776-xzn3",
+          "label": "Istirahat di kamar masing-masing",
+          "title": "Istirahat di kamar masing-masing",
+          "checked": true
+        },
+        {
+          "id": "sop-1789972698346-wzs5",
+          "label": "Sop piket sore seperti piket pagi",
+          "title": "Sop piket sore seperti piket pagi",
+          "checked": true
+        }
+      ],
+      "id": "chk-1789981148396",
+      "createdAt": "2026-09-21T08:59:08.396Z"
+    },
+    {
+      "activityId": "act-7",
+      "activityName": "Dzuhur Berjamaah, Makan Siang & Qailulah",
+      "date": "2026-09-21",
+      "time": "13:51",
+      "inspectorId": "u-superadmin",
+      "inspectorName": "Hendra Syam (Super Admin)",
+      "status": "COMPLETE",
+      "notes": "",
+      "items": [
+        {
+          "id": "sop-7-1",
+          "label": "Adzan Dzuhur tepat waktu di masjid jami'",
+          "title": "Adzan Dzuhur tepat waktu di masjid jami'",
+          "checked": true
+        },
+        {
+          "id": "sop-7-2",
+          "label": "Sholat Dzuhur berjamaah & ba'diyah",
+          "title": "Sholat Dzuhur berjamaah & ba'diyah",
+          "checked": true
+        },
+        {
+          "id": "sop-7-3",
+          "label": "Makan siang tertib  seperti sop makan pagi",
+          "title": "Makan siang tertib  seperti sop makan pagi",
+          "checked": true
+        },
+        {
+          "id": "sop-7-4",
+          "label": "Qailulah (tidur siang sunnah) 11.30 - 12.00 di masjid",
+          "title": "Qailulah (tidur siang sunnah) 11.30 - 12.00 di masjid",
+          "checked": true
+        }
+      ],
+      "id": "chk-1789973490160",
+      "createdAt": "2026-09-21T06:51:30.160Z"
+    },
+    {
+      "activityId": "act-1789972360880",
+      "activityName": "KBM 1",
+      "date": "2026-09-21",
+      "time": "13:51",
+      "inspectorId": "u-superadmin",
+      "inspectorName": "Hendra Syam (Super Admin)",
+      "status": "COMPLETE",
+      "notes": "",
+      "items": [
+        {
+          "id": "sop-1789972390639-edhs",
+          "label": "Santri sudah berada diruangan sebelum pukul 08.00",
+          "title": "Santri sudah berada diruangan sebelum pukul 08.00",
+          "checked": true
+        },
+        {
+          "id": "sop-1789972421152-0c16",
+          "label": "Menggunakan seragam sesuai jadwallnya",
+          "title": "Menggunakan seragam sesuai jadwallnya",
+          "checked": true
+        },
+        {
+          "id": "sop-1789972430026-vvnn",
+          "label": "Menggunakan songkok hitam",
+          "title": "Menggunakan songkok hitam",
+          "checked": true
+        },
+        {
+          "id": "sop-1789972461365-3cbv",
+          "label": "Santri belajar dengan tertib dan santun",
+          "title": "Santri belajar dengan tertib dan santun",
+          "checked": true
+        }
+      ],
+      "id": "chk-1789973483189",
+      "createdAt": "2026-09-21T06:51:23.189Z"
+    },
+    {
+      "activityId": "act-1789972262300",
+      "activityName": "Makan dan  Mandi pagi",
+      "date": "2026-09-21",
+      "time": "13:51",
+      "inspectorId": "u-superadmin",
+      "inspectorName": "Hendra Syam (Super Admin)",
+      "status": "COMPLETE",
+      "notes": "",
+      "items": [
+        {
+          "id": "sop-1789971977511-1",
+          "label": "Musyrif standby dan mengecek kegiatan makan santri",
+          "title": "Musyrif standby dan mengecek kegiatan makan santri",
+          "checked": true
+        },
+        {
+          "id": "sop-1789971977511-2",
+          "label": "Memastikan ketertiban dan adab santri terjaga",
+          "title": "Memastikan ketertiban dan adab santri terjaga",
+          "checked": true
+        },
+        {
+          "id": "sop-1789972078975-72nx",
+          "label": "Makan setelah semua satri berkumpul, duduk rapi",
+          "title": "Makan setelah semua satri berkumpul, duduk rapi",
+          "checked": true
+        },
+        {
+          "id": "sop-1789972121647-6dlx",
+          "label": "Alat makan langsung dibersihkan setelah selesai makan dan diletakkan pada tempatnya",
+          "title": "Alat makan langsung dibersihkan setelah selesai makan dan diletakkan pada tempatnya",
+          "checked": true
+        },
+        {
+          "id": "sop-1789972141666-qk6s",
+          "label": "Lokasi makan langusng dibersihkan dan dipel",
+          "title": "Lokasi makan langusng dibersihkan dan dipel",
+          "checked": true
+        },
+        {
+          "id": "sop-1789972165733-esmv",
+          "label": "Santri mandi dengan tertib, tidak bercanda saat mandi",
+          "title": "Santri mandi dengan tertib, tidak bercanda saat mandi",
+          "checked": true
+        },
+        {
+          "id": "sop-1789972197478-dnjy",
+          "label": "mengganti pakaian di dalam kamar mandi",
+          "title": "mengganti pakaian di dalam kamar mandi",
+          "checked": true
+        },
+        {
+          "id": "sop-1789972241662-6kje",
+          "label": "Santri tidak boleh menuju kamar mandi tanpa baju dan atau menggunakan celana pendek diatas dengkul",
+          "title": "Santri tidak boleh menuju kamar mandi tanpa baju dan atau menggunakan celana pendek diatas dengkul",
+          "checked": true
+        },
+        {
+          "id": "sop-1789972258096-ymen",
+          "label": "tidak menginggalkan pakaian kotor di dalam kamar mandi",
+          "title": "tidak menginggalkan pakaian kotor di dalam kamar mandi",
+          "checked": true
+        }
+      ],
+      "id": "chk-1789973470163",
+      "createdAt": "2026-09-21T06:51:10.163Z"
+    },
+    {
+      "activityId": "act-1789971248293",
+      "activityName": "Piket Pagi",
+      "date": "2026-09-21",
+      "time": "13:50",
+      "inspectorId": "u-superadmin",
+      "inspectorName": "Hendra Syam (Super Admin)",
+      "status": "COMPLETE",
+      "notes": "",
+      "items": [
+        {
+          "id": "sop-1789971124185-1",
+          "label": "Musyrif standby dan mengecek pekerjaan santri",
+          "title": "Musyrif standby dan mengecek pekerjaan santri",
+          "checked": true
+        },
+        {
+          "id": "sop-1789971195691-1y69",
+          "label": "Seluruh santri piket di pos masing-masing dengan benar",
+          "title": "Seluruh santri piket di pos masing-masing dengan benar",
+          "checked": true
+        },
+        {
+          "id": "sop-1789971240697-ra68",
+          "label": "Mengambil dan mengembalikan kembali alat kebersihan ditempat yang benar",
+          "title": "Mengambil dan mengembalikan kembali alat kebersihan ditempat yang benar",
+          "checked": true
+        },
+        {
+          "id": "sop-1789971861313-ar85",
+          "label": "Tempat tidur, sandal, dan gantungan baju rapi",
+          "title": "Tempat tidur, sandal, dan gantungan baju rapi",
+          "checked": true
+        },
+        {
+          "id": "sop-1789971878611-a144",
+          "label": "Kamar mandi dan area wudhu disikat",
+          "title": "Kamar mandi dan area wudhu disikat",
+          "checked": true
+        },
+        {
+          "id": "sop-1789971908731-sa2z",
+          "label": "Masjid dan ruangan kelas dipel",
+          "title": "Masjid dan ruangan kelas dipel",
+          "checked": true
+        },
+        {
+          "id": "sop-1789971937803-vjy8",
+          "label": "Area umum dan taman dibersihkan",
+          "title": "Area umum dan taman dibersihkan",
+          "checked": true
+        }
+      ],
+      "id": "chk-1789973452308",
+      "createdAt": "2026-09-21T06:50:52.308Z"
+    },
+    {
+      "activityId": "act-4",
+      "activityName": "Halaqoh Qur'an Pagi",
+      "date": "2026-09-21",
+      "time": "13:50",
+      "inspectorId": "u-superadmin",
+      "inspectorName": "Hendra Syam (Super Admin)",
+      "status": "COMPLETE",
+      "notes": "",
+      "items": [
+        {
+          "id": "sop-4-1",
+          "label": "Santri membentuk halaqoh di tempat musyrif masing-masing",
+          "title": "Santri membentuk halaqoh di tempat musyrif masing-masing",
+          "checked": true
+        },
+        {
+          "id": "sop-4-6",
+          "label": "Santri Wajib mentasmi'kan hafalan baru",
+          "title": "Santri Wajib mentasmi'kan hafalan baru",
+          "checked": true
+        }
+      ],
+      "id": "chk-1789973437547",
+      "createdAt": "2026-09-21T06:50:37.547Z"
+    },
+    {
+      "activityId": "act-8",
+      "activityName": "KBM Siang",
+      "date": "2026-09-21",
+      "time": "13:45",
+      "inspectorId": "u-superadmin",
+      "inspectorName": "Hendra Syam (Super Admin)",
+      "status": "COMPLETE",
+      "notes": "",
+      "items": [
+        {
+          "id": "sop-8-2",
+          "label": "Duduk membentuk halaqah bersama ustadz pembimbing",
+          "title": "Duduk membentuk halaqah bersama ustadz pembimbing",
+          "checked": true
+        },
+        {
+          "id": "sop-8-3",
+          "label": "Setoran hafalan baru (ziyadah) atau muroja'ah",
+          "title": "Setoran hafalan baru (ziyadah) atau muroja'ah",
+          "checked": true
+        },
+        {
+          "id": "sop-8-4",
+          "label": "Buku mutaba'ah santri ditandatangani ustadz pembimbing",
+          "title": "Buku mutaba'ah santri ditandatangani ustadz pembimbing",
+          "checked": true
+        }
+      ],
+      "id": "chk-1789973136622",
+      "createdAt": "2026-09-21T06:45:36.622Z"
+    },
+    {
+      "activityId": "act-4",
+      "activityName": "Kebersihan Pagi & Piket Kamar",
+      "date": "2026-09-18",
+      "time": "05:37",
+      "inspectorId": "u-1",
+      "inspectorName": "Ust. Ahmad Fauzi",
+      "status": "COMPLETE",
+      "notes": "",
+      "items": [
+        {
+          "id": "sop-4-1",
+          "label": "Lantai kamar disapu dan dipel bersih",
+          "title": "Lantai kamar disapu dan dipel bersih",
+          "checked": true
+        },
+        {
+          "id": "sop-4-2",
+          "label": "Tempat tidur rapi, seprei kencang, bantal tertata",
+          "title": "Tempat tidur rapi, seprei kencang, bantal tertata",
+          "checked": true
+        },
+        {
+          "id": "sop-4-3",
+          "label": "Pakaian kotor masuk keranjang cuci, locker pakaian tertutup",
+          "title": "Pakaian kotor masuk keranjang cuci, locker pakaian tertutup",
+          "checked": true
+        },
+        {
+          "id": "sop-4-4",
+          "label": "Sampah kamar dibuang ke bak sampah luar",
+          "title": "Sampah kamar dibuang ke bak sampah luar",
+          "checked": true
+        },
+        {
+          "id": "sop-4-5",
+          "label": "Kamar mandi & tempat wudhu disikat",
+          "title": "Kamar mandi & tempat wudhu disikat",
+          "checked": true
+        },
+        {
+          "id": "sop-4-6",
+          "label": "Area piket koridor & halaman depan selesai dibersihkan",
+          "title": "Area piket koridor & halaman depan selesai dibersihkan",
+          "checked": true
+        }
+      ],
+      "id": "chk-1789713832013",
+      "createdAt": "2026-09-18T06:43:52.013Z"
+    }
+  ],
+  "attendance": [],
+  "violations": [],
+  "coachings": [],
+  "cases": [],
+  "appreciations": [],
+  "dutyRosters": [
+    {
+      "id": "dr-1",
+      "shift": "04.00–07.00",
+      "supervisorId": "u-1",
+      "supervisorName": "Ust. Ahmad Fauzi",
+      "date": "2026-09-17",
+      "isCurrentShift": true
+    },
+    {
+      "id": "dr-2",
+      "shift": "07.00–12.00",
+      "supervisorId": "u-3",
+      "supervisorName": "Ust. Budi Prasetyo",
+      "date": "2026-09-17",
+      "isCurrentShift": false
+    },
+    {
+      "id": "dr-3",
+      "shift": "12.00–17.00",
+      "supervisorId": "u-4",
+      "supervisorName": "Ust. Candra Wijaya",
+      "date": "2026-09-17",
+      "isCurrentShift": false
+    },
+    {
+      "id": "dr-4",
+      "shift": "17.00–22.00",
+      "supervisorId": "u-1",
+      "supervisorName": "Ust. Ahmad Fauzi",
+      "date": "2026-09-17",
+      "isCurrentShift": false
+    },
+    {
+      "id": "dr-5",
+      "shift": "22.00–04.00",
+      "supervisorId": "u-3",
+      "supervisorName": "Ust. Budi Prasetyo",
+      "date": "2026-09-17",
+      "isCurrentShift": false
+    }
+  ],
+  "handovers": [
+    {
+      "id": "ho-1",
+      "fromSupervisorId": "u-3",
+      "fromSupervisorName": "Ust. Budi Prasetyo",
+      "toSupervisorId": "u-1",
+      "toSupervisorName": "Ust. Ahmad Fauzi",
+      "timestamp": "2026-09-17 04:00",
+      "pendingCoachingCount": 2,
+      "pendingFacilityCount": 1,
+      "attentionStudentsCount": 2,
+      "shiftNotes": "Malam berlangsung kondusif. Santri Hasan Basri (Kamar 02) demam ringan, sudah diberi obat penurun panas pukul 02.30. Lampu kamar 03 bagian pojok mati, teknisi sudah dilaporkan.",
+      "acknowledgedAt": "2026-09-17 04:05",
+      "isAcknowledged": true
+    }
+  ],
+  "incidents": [
+    {
+      "code": "INC-2572",
+      "title": "Ramdhan muntah darah",
+      "category": "KESEHATAN",
+      "priority": "HIGH",
+      "location": "Kamar 01",
+      "chronology": "saat pergi ke perpustakaan dia mengalami batuk berdarah, segera dibawa pulang k pondok",
+      "reportedBy": "Ust. Ahmad Fauzi",
+      "reportedAt": "04:00",
+      "status": "RESOLVED",
+      "actionTaken": "diperiksa di klinik 24 jam | Sudah diperiksa di klinik 24 jam dan kondisi santri aman terkendali",
+      "id": "inc-1789713068928",
+      "createdAt": "2026-09-18 06:31:08",
+      "resolvedAt": "2026-09-21 06:53:24",
+      "resolvedBy": "Ust. Ahmad Fauzi"
+    },
+    {
+      "id": "inc-1",
+      "code": "INC-202609-001",
+      "title": "Korsleting Ringan Stop Kontak Selasar Asrama",
+      "location": "Selasar Asrama Putra Lantai 2",
+      "date": "2026-09-16",
+      "time": "20:15",
+      "studentIds": [],
+      "studentNames": [],
+      "incidentType": "Kelistrikan / Keamanan Fasilitas",
+      "chronology": "Tercium bau terbakar dari stop kontak dispenser air minum. Musyrif langsung mematikan MCB lantai 2 dan memindahkan dispenser.",
+      "initialAction": "MCB panel lantai 2 dimatikan segera, stop kontak diisolasi dengan tanda peringatan bahaya.",
+      "picId": "u-1",
+      "picName": "Ust. Ahmad Fauzi",
+      "priority": "HIGH",
+      "status": "RESOLVED",
+      "createdAt": "2026-09-16 20:20",
+      "resolvedAt": "2026-09-21 06:53:27",
+      "resolvedBy": "Ust. Ahmad Fauzi",
+      "actionTaken": "MCB dan stop kontak sudah selesai diperbaiki teknisi"
+    }
+  ],
+  "facilities": [
+    {
+      "id": "fac-1",
+      "code": "FAC-0089",
+      "areaOrRoom": "Kamar 03 (Lantai 2)",
+      "issue": "Lampu penerangan utama kamar mati dan kipas angin berdengung keras.",
+      "reporterName": "Ust. Candra Wijaya",
+      "picTechnician": "Pak Mamat (Teknisi Sarpras)",
+      "priority": "HIGH",
+      "status": "OPEN",
+      "createdAt": "2026-09-16 21:15",
+      "notes": "Perlu penggantian fitting lampu LED 18W dan pengecekan bearing kipas."
+    },
+    {
+      "id": "fac-2",
+      "code": "FAC-0088",
+      "areaOrRoom": "Tempat Wudhu Masjid",
+      "issue": "Keran air nomor 4 bocor menetes terus-menerus.",
+      "reporterName": "Ust. Ahmad Fauzi",
+      "picTechnician": "Pak Mamat (Teknisi Sarpras)",
+      "priority": "MEDIUM",
+      "status": "DONE",
+      "createdAt": "2026-09-15 08:30",
+      "resolvedAt": "2026-09-15 14:00",
+      "notes": "Karet seal keran telah diganti dengan yang baru."
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1789981280096",
+      "title": "Santri Terlambat: Muhammad yusuf ramadhan",
+      "message": "Muhammad yusuf ramadhan (01) tercatat terlambat pada kegiatan aktif.",
+      "type": "WARNING",
+      "timestamp": "16:01",
+      "read": false,
+      "actionType": "student",
+      "targetId": "std-1789980552785-452"
+    },
+    {
+      "id": "notif-1789981279237",
+      "title": "Santri Terlambat: Muhammad yusuf ramadhan",
+      "message": "Muhammad yusuf ramadhan (01) tercatat terlambat pada kegiatan aktif.",
+      "type": "WARNING",
+      "timestamp": "16:01",
+      "read": false,
+      "actionType": "student",
+      "targetId": "std-1789980552785-452"
+    },
+    {
+      "id": "notif-1789981148397",
+      "title": "SOP Selesai: Ashar & Aktivitas Mandiri",
+      "message": "Checking kegiatan Ashar & Aktivitas Mandiri telah diselesaikan oleh Hendra Syam (Super Admin).",
+      "type": "SUCCESS",
+      "timestamp": "15:59",
+      "read": false,
+      "actionType": "checklist"
+    },
+    {
+      "id": "notif-1789973607949",
+      "title": "✅ Kejadian Selesai Ditangani: Korsleting Ringan Stop Kontak Selasar Asrama",
+      "message": "Kejadian INC-202609-001 telah selesai ditangani oleh Ust. Ahmad Fauzi. Situasi kembali kondusif.",
+      "type": "INFO",
+      "timestamp": "13:53",
+      "read": false,
+      "actionType": "incident",
+      "targetId": "inc-1"
+    },
+    {
+      "id": "notif-1789973604767",
+      "title": "✅ Kejadian Selesai Ditangani: Ramdhan muntah darah",
+      "message": "Kejadian INC-2572 telah selesai ditangani oleh Ust. Ahmad Fauzi. Situasi kembali kondusif.",
+      "type": "INFO",
+      "timestamp": "13:53",
+      "read": false,
+      "actionType": "incident",
+      "targetId": "inc-1789713068928"
+    },
+    {
+      "id": "notif-1789973490161",
+      "title": "SOP Selesai: Dzuhur Berjamaah, Makan Siang & Qailulah",
+      "message": "Checking kegiatan Dzuhur Berjamaah, Makan Siang & Qailulah telah diselesaikan oleh Hendra Syam (Super Admin).",
+      "type": "SUCCESS",
+      "timestamp": "13:51",
+      "read": false,
+      "actionType": "checklist"
+    },
+    {
+      "id": "notif-1789973483190",
+      "title": "SOP Selesai: KBM 1",
+      "message": "Checking kegiatan KBM 1 telah diselesaikan oleh Hendra Syam (Super Admin).",
+      "type": "SUCCESS",
+      "timestamp": "13:51",
+      "read": false,
+      "actionType": "checklist"
+    },
+    {
+      "id": "notif-1789973470164",
+      "title": "SOP Selesai: Makan dan  Mandi pagi",
+      "message": "Checking kegiatan Makan dan  Mandi pagi telah diselesaikan oleh Hendra Syam (Super Admin).",
+      "type": "SUCCESS",
+      "timestamp": "13:51",
+      "read": false,
+      "actionType": "checklist"
+    },
+    {
+      "id": "notif-1789973452309",
+      "title": "SOP Selesai: Piket Pagi",
+      "message": "Checking kegiatan Piket Pagi telah diselesaikan oleh Hendra Syam (Super Admin).",
+      "type": "SUCCESS",
+      "timestamp": "13:50",
+      "read": false,
+      "actionType": "checklist"
+    },
+    {
+      "id": "notif-1789973437548",
+      "title": "SOP Selesai: Halaqoh Qur'an Pagi",
+      "message": "Checking kegiatan Halaqoh Qur'an Pagi telah diselesaikan oleh Hendra Syam (Super Admin).",
+      "type": "SUCCESS",
+      "timestamp": "13:50",
+      "read": false,
+      "actionType": "checklist"
+    },
+    {
+      "id": "notif-1789973136623",
+      "title": "SOP Selesai: KBM Siang",
+      "message": "Checking kegiatan KBM Siang telah diselesaikan oleh Hendra Syam (Super Admin).",
+      "type": "SUCCESS",
+      "timestamp": "13:45",
+      "read": false,
+      "actionType": "checklist"
+    },
+    {
+      "id": "notif-1789713832014",
+      "title": "SOP Selesai: Kebersihan Pagi & Piket Kamar",
+      "message": "Checking kegiatan Kebersihan Pagi & Piket Kamar telah diselesaikan oleh Ust. Ahmad Fauzi.",
+      "type": "SUCCESS",
+      "timestamp": "05:37",
+      "read": false,
+      "actionType": "checklist"
+    },
+    {
+      "id": "notif-1789713068929",
+      "title": "🚨 KEJADIAN DARURAT: Ramdhan muntah darah",
+      "message": "Lokasi: Kamar 01. saat pergi ke perpustakaan dia mengalami batuk berdarah, segera dibawa pulang k pondok",
+      "type": "ALERT",
+      "timestamp": "04:00",
+      "read": true,
+      "actionType": "incident",
+      "targetId": "inc-1789713068928"
+    },
+    {
+      "id": "notif-1",
+      "title": "Checking Subuh Selesai",
+      "message": "Seluruh santri kamar 01, 02, dan 04 hadir sholat Subuh berjamaah tepat waktu.",
+      "type": "SUCCESS",
+      "timestamp": "05:30",
+      "read": false,
+      "actionType": "attendance"
+    },
+    {
+      "id": "notif-2",
+      "title": "Santri Perlu Perhatian",
+      "message": "Zaidan Bilal (Kamar 01) terlambat sholat Subuh (catatan ke-3 bulan ini).",
+      "type": "WARNING",
+      "timestamp": "05:15",
+      "read": false,
+      "actionType": "student",
+      "targetId": "st-3"
+    },
+    {
+      "id": "notif-3",
+      "title": "Kamar Perlu Perhatian",
+      "message": "Kamar 03 memperoleh skor 75 (Need Attention) pada inspeksi kebersihan pagi.",
+      "type": "ALERT",
+      "timestamp": "06:05",
+      "read": false,
+      "actionType": "room",
+      "targetId": "room-3"
+    },
+    {
+      "id": "notif-4",
+      "title": "2 Pembinaan Sedang Berjalan",
+      "message": "Pembinaan Zaidan Bilal dan Salman Al-Farisi belum ditutup. Target evaluasi pekan ini.",
+      "type": "INFO",
+      "timestamp": "06:15",
+      "read": true,
+      "actionType": "coaching"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1790058761919-434",
+      "who": "Super Admin",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus Data Santri: Test Santri Baru",
+      "when": "2026-09-22 06:32:41",
+      "where": "Kamar 01",
+      "before": "20245922",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1790058758455-492",
+      "who": "Super Admin",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan Santri Baru: Test Santri Baru (NIS: 20245922)",
+      "when": "2026-09-22 06:32:38",
+      "where": "Kamar 01 (Kelas 8A)",
+      "before": "-",
+      "after": "Terdaftar Resmi"
+    },
+    {
+      "id": "log-1789981311517-69",
+      "who": "Super Admin",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus Data Santri: Ahmad Fauzan",
+      "when": "2026-09-21 09:01:51",
+      "where": "Kamar 01",
+      "before": "20247499",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1789981311507-737",
+      "who": "Ust. Hendra",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan Santri Baru: Ahmad Fauzan (NIS: 20247499)",
+      "when": "2026-09-21 09:01:51",
+      "where": "Kamar 01 (Kelas 7)",
+      "before": "-",
+      "after": "Terdaftar Resmi"
+    },
+    {
+      "id": "log-1789981283729-195",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Ubah status kehadiran santri Muhammad yusuf ramadhan",
+      "when": "2026-09-21 09:01:23",
+      "where": "Santri: 0552025",
+      "before": "Status: HADIR",
+      "after": "Status: HADIR"
+    },
+    {
+      "id": "log-1789981283064-18",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Ubah status kehadiran santri Muhammad yusuf ramadhan",
+      "when": "2026-09-21 09:01:23",
+      "where": "Santri: 0552025",
+      "before": "Status: TERLAMBAT",
+      "after": "Status: HADIR"
+    },
+    {
+      "id": "log-1789981280095-535",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Ubah status kehadiran santri Muhammad yusuf ramadhan",
+      "when": "2026-09-21 09:01:20",
+      "where": "Santri: 0552025",
+      "before": "Status: TERLAMBAT",
+      "after": "Status: TERLAMBAT"
+    },
+    {
+      "id": "log-1789981279236-797",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Ubah status kehadiran santri Muhammad yusuf ramadhan",
+      "when": "2026-09-21 09:01:19",
+      "where": "Santri: 0552025",
+      "before": "Status: HADIR",
+      "after": "Status: TERLAMBAT"
+    },
+    {
+      "id": "log-1789981148396-543",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Melakukan checklist SOP: Ashar & Aktivitas Mandiri",
+      "when": "2026-09-21 08:59:08",
+      "where": "Aktivitas: Ashar & Aktivitas Mandiri",
+      "before": "Status: PENDING",
+      "after": "Status: COMPLETE"
+    },
+    {
+      "id": "log-1789980975867-700",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan Santri Baru: Lukman Hakim (NIS: 20248437)",
+      "when": "2026-09-21 08:56:15",
+      "where": "Kamar 01 (Kelas 9A)",
+      "before": "-",
+      "after": "Terdaftar Resmi"
+    },
+    {
+      "id": "log-1789980938638-23",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Santri: Rofiq Al Akhyar",
+      "when": "2026-09-21 08:55:38",
+      "where": "Kamar 01",
+      "before": "Nama: Rofiq Al Akhyar, Kamar: 01",
+      "after": "Nama: Rofiq Al Akhyar, Kamar: 01"
+    },
+    {
+      "id": "log-1789980923060-612",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Santri: Ibrahim",
+      "when": "2026-09-21 08:55:23",
+      "where": "Kamar 01",
+      "before": "Nama: Ibrahim, Kamar: 01",
+      "after": "Nama: Ibrahim, Kamar: 01"
+    },
+    {
+      "id": "log-1789980911059-907",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Santri: Zafran Alkhairi",
+      "when": "2026-09-21 08:55:11",
+      "where": "Kamar 01",
+      "before": "Nama: Zafran Alkhairi, Kamar: 01",
+      "after": "Nama: Zafran Alkhairi, Kamar: 01"
+    },
+    {
+      "id": "log-1789980897434-659",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Santri: Muhammad damarudin dahlan",
+      "when": "2026-09-21 08:54:57",
+      "where": "Kamar 01",
+      "before": "Nama: Muhammad damarudin dahlan, Kamar: 01",
+      "after": "Nama: Muhammad damarudin dahlan, Kamar: 01"
+    },
+    {
+      "id": "log-1789980877496-764",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Santri: Muhammad Malik akil",
+      "when": "2026-09-21 08:54:37",
+      "where": "Kamar 01",
+      "before": "Nama: Muhammad Malik akil, Kamar: 01",
+      "after": "Nama: Muhammad Malik akil, Kamar: 01"
+    },
+    {
+      "id": "log-1789980866828-596",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Santri: Muhammad yusuf ramadhan",
+      "when": "2026-09-21 08:54:26",
+      "where": "Kamar 01",
+      "before": "Nama: Muhammad yusuf ramadhan, Kamar: 01",
+      "after": "Nama: Muhammad yusuf ramadhan, Kamar: 01"
+    },
+    {
+      "id": "log-1789980850115-757",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Santri: Rakha Hamdi",
+      "when": "2026-09-21 08:54:10",
+      "where": "Kamar 01",
+      "before": "Nama: Rakha Hamdi, Kamar: 01",
+      "after": "Nama: Rakha Hamdi, Kamar: 01"
+    },
+    {
+      "id": "log-1789980838282-59",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan Santri Baru: Muhammad Syafiq Ramadhan (NIS: 20249248)",
+      "when": "2026-09-21 08:53:58",
+      "where": "Kamar 01 (Kelas 9A)",
+      "before": "-",
+      "after": "Terdaftar Resmi"
+    },
+    {
+      "id": "log-1789980806385-279",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan Santri Baru: Rakha Hamdi (NIS: 20241216)",
+      "when": "2026-09-21 08:53:26",
+      "where": "Kamar 01 (Kelas 7A)",
+      "before": "-",
+      "after": "Terdaftar Resmi"
+    },
+    {
+      "id": "log-1789980771077-585",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan Santri Baru: Rofiq Al Akhyar (NIS: 20242616)",
+      "when": "2026-09-21 08:52:51",
+      "where": "Kamar 01 (Kelas 7A)",
+      "before": "-",
+      "after": "Terdaftar Resmi"
+    },
+    {
+      "id": "log-1789980719319-994",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan Santri Baru: Ibrahim (NIS: 20246976)",
+      "when": "2026-09-21 08:51:59",
+      "where": "Kamar 01 (Kelas 7A)",
+      "before": "-",
+      "after": "Terdaftar Resmi"
+    },
+    {
+      "id": "log-1789980676384-769",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan Santri Baru: Zafran Alkhairi (NIS: 20246616)",
+      "when": "2026-09-21 08:51:16",
+      "where": "Kamar 01 (Kelas 7A)",
+      "before": "-",
+      "after": "Terdaftar Resmi"
+    },
+    {
+      "id": "log-1789980645584-428",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan Santri Baru: Muhammad damarudin dahlan (NIS: 20243799)",
+      "when": "2026-09-21 08:50:45",
+      "where": "Kamar 01 (Kelas 7A)",
+      "before": "-",
+      "after": "Terdaftar Resmi"
+    },
+    {
+      "id": "log-1789980600304-500",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan Santri Baru: Muhammad Malik akil (NIS: 20247595)",
+      "when": "2026-09-21 08:50:00",
+      "where": "Kamar 01 (Kelas 7A)",
+      "before": "-",
+      "after": "Terdaftar Resmi"
+    },
+    {
+      "id": "log-1789980552785-493",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan Santri Baru: Muhammad yusuf ramadhan (NIS: 0552025)",
+      "when": "2026-09-21 08:49:12",
+      "where": "Kamar 01 (Kelas 7A)",
+      "before": "-",
+      "after": "Terdaftar Resmi"
+    },
+    {
+      "id": "log-1789974454603-350",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Pengurus: Ustadzah Erina",
+      "when": "2026-09-21 07:07:34",
+      "where": "Struktur Pengasuhan",
+      "before": "Nama: Ustadzah Sarah Aminah, S.Ag., Role: GURU",
+      "after": "Nama: Ustadzah Erina, Role: PENGASUH"
+    },
+    {
+      "id": "log-1789974426187-709",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Pengurus: Ust. Jamhuri",
+      "when": "2026-09-21 07:07:06",
+      "where": "Struktur Pengasuhan",
+      "before": "Nama: Ust. Candra Wijaya, S.Pd., Role: PENGASUH",
+      "after": "Nama: Ust. Jamhuri, Role: GURU"
+    },
+    {
+      "id": "log-1789974398527-990",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Pengurus: Ust. Baba",
+      "when": "2026-09-21 07:06:38",
+      "where": "Struktur Pengasuhan",
+      "before": "Nama: Ust. Ridwan Kamiludin, M.Pd., Role: KOORDINATOR",
+      "after": "Nama: Ust. Baba, Role: GURU"
+    },
+    {
+      "id": "log-1789974359180-723",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Pengurus: Ust. Rauf",
+      "when": "2026-09-21 07:05:59",
+      "where": "Struktur Pengasuhan",
+      "before": "Nama: K.H. Abdullah Syafi'i, Role: PIMPINAN",
+      "after": "Nama: Ust. Rauf, Role: PENGASUH"
+    },
+    {
+      "id": "log-1789974313852-45",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Pengurus: Ust. Aday Kodarudin",
+      "when": "2026-09-21 07:05:13",
+      "where": "Struktur Pengasuhan",
+      "before": "Nama: Ust. Budi Prasetyo, S.Sos., Role: PENGASUH",
+      "after": "Nama: Ust. Aday Kodarudin, Role: PIMPINAN"
+    },
+    {
+      "id": "log-1789974273056-808",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah Data Pengurus: Ust. Hendra Syambasri, M.Pd.",
+      "when": "2026-09-21 07:04:33",
+      "where": "Struktur Pengasuhan",
+      "before": "Nama: Ust. Ahmad Fauzi, Role: PENGASUH",
+      "after": "Nama: Ust. Hendra Syambasri, M.Pd., Role: SUPER_ADMIN"
+    },
+    {
+      "id": "log-1789973638513-974",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus Data Santri: Hasan Basri Wicaksono",
+      "when": "2026-09-21 06:53:58",
+      "where": "Kamar 02",
+      "before": "ALM-2024-009",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1789973634466-706",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus Data Santri: Danial Arkan Syahputra",
+      "when": "2026-09-21 06:53:54",
+      "where": "Kamar 02",
+      "before": "ALM-2024-008",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1789973617154-837",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus Data Santri: Alif Farhan Kurniawan",
+      "when": "2026-09-21 06:53:37",
+      "where": "Kamar 02",
+      "before": "ALM-2024-007",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1789973613042-980",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus Data Santri: Yusuf Ibrahim Malik",
+      "when": "2026-09-21 06:53:33",
+      "where": "Kamar 02",
+      "before": "ALM-2024-006",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1789973607951-400",
+      "who": "Ust. Ahmad Fauzi",
+      "role": "PENGASUH",
+      "what": "Update Status Kejadian INC-202609-001",
+      "when": "2026-09-21 06:53:27",
+      "where": "Selasar Asrama Putra Lantai 2",
+      "before": "Status: RESPONDING",
+      "after": "Status: RESOLVED"
+    },
+    {
+      "id": "log-1789973606824-105",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus Data Santri: Rizky Aditya Putra",
+      "when": "2026-09-21 06:53:26",
+      "where": "Kamar 01",
+      "before": "ALM-2024-005",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1789973604769-948",
+      "who": "Ust. Ahmad Fauzi",
+      "role": "PENGASUH",
+      "what": "Update Status Kejadian INC-2572",
+      "when": "2026-09-21 06:53:24",
+      "where": "Kamar 01",
+      "before": "Status: INVESTIGATING",
+      "after": "Status: RESOLVED"
+    },
+    {
+      "id": "log-1789973603621-452",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus Data Santri: Faiz Hamzah Pratama",
+      "when": "2026-09-21 06:53:23",
+      "where": "Kamar 01",
+      "before": "ALM-2024-004",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1789973597509-656",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus Data Santri: Zaidan Bilal Ramadhan",
+      "when": "2026-09-21 06:53:17",
+      "where": "Kamar 01",
+      "before": "ALM-2024-003",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1789973587465-991",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus Data Santri: Muhammad Fatih Al-Ayyubi",
+      "when": "2026-09-21 06:53:07",
+      "where": "Kamar 01",
+      "before": "ALM-2024-002",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1789973583490-892",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus Data Santri: Ahmad Rayhan Firdaus",
+      "when": "2026-09-21 06:53:03",
+      "where": "Kamar 01",
+      "before": "ALM-2024-001",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1789973490160-117",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Melakukan checklist SOP: Dzuhur Berjamaah, Makan Siang & Qailulah",
+      "when": "2026-09-21 06:51:30",
+      "where": "Aktivitas: Dzuhur Berjamaah, Makan Siang & Qailulah",
+      "before": "Status: PENDING",
+      "after": "Status: COMPLETE"
+    },
+    {
+      "id": "log-1789973483189-358",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Melakukan checklist SOP: KBM 1",
+      "when": "2026-09-21 06:51:23",
+      "where": "Aktivitas: KBM 1",
+      "before": "Status: PENDING",
+      "after": "Status: COMPLETE"
+    },
+    {
+      "id": "log-1789973470163-355",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Melakukan checklist SOP: Makan dan  Mandi pagi",
+      "when": "2026-09-21 06:51:10",
+      "where": "Aktivitas: Makan dan  Mandi pagi",
+      "before": "Status: PENDING",
+      "after": "Status: COMPLETE"
+    },
+    {
+      "id": "log-1789973452308-710",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Melakukan checklist SOP: Piket Pagi",
+      "when": "2026-09-21 06:50:52",
+      "where": "Aktivitas: Piket Pagi",
+      "before": "Status: PENDING",
+      "after": "Status: COMPLETE"
+    },
+    {
+      "id": "log-1789973437547-742",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Melakukan checklist SOP: Halaqoh Qur'an Pagi",
+      "when": "2026-09-21 06:50:37",
+      "where": "Aktivitas: Halaqoh Qur'an Pagi",
+      "before": "Status: PENDING",
+      "after": "Status: COMPLETE"
+    },
+    {
+      "id": "log-1789973136622-722",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Melakukan checklist SOP: KBM Siang",
+      "when": "2026-09-21 06:45:36",
+      "where": "Aktivitas: KBM Siang",
+      "before": "Status: PENDING",
+      "after": "Status: COMPLETE"
+    },
+    {
+      "id": "log-1789973084535-748",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah jadwal kegiatan \"Tidur & Istirahat Malam\"",
+      "when": "2026-09-21 06:44:44",
+      "where": "Jadwal 24 Jam (21:30-03:45)",
+      "before": "",
+      "after": "SOP: SOP Istirahat Malam Asrama"
+    },
+    {
+      "id": "log-1789972997853-379",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah jadwal kegiatan \"Night Checking (Pemeriksaan Malam)\"",
+      "when": "2026-09-21 06:43:17",
+      "where": "Jadwal 24 Jam (21:00-21:30)",
+      "before": "",
+      "after": "SOP: SOP Night Checking 21.15 Asrama Almaa"
+    },
+    {
+      "id": "log-1789972946815-859",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah jadwal kegiatan \"Isya Berjamaah & Murojaah\"",
+      "when": "2026-09-21 06:42:26",
+      "where": "Jadwal 24 Jam (19:30-20:45)",
+      "before": "",
+      "after": "SOP: Murojaah Malam"
+    },
+    {
+      "id": "log-1789972828947-493",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah jadwal kegiatan \"Kegiatan Malam & Kajian Kitab\"",
+      "when": "2026-09-21 06:40:28",
+      "where": "Jadwal 24 Jam (18:30-20:00)",
+      "before": "",
+      "after": "SOP: SOP Kajian Kitab / Ta'lim"
+    },
+    {
+      "id": "log-1789972779439-223",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah jadwal kegiatan \"Mandi Sore & Persiapan Maghrib\"",
+      "when": "2026-09-21 06:39:39",
+      "where": "Jadwal 24 Jam (17:00-18:30)",
+      "before": "",
+      "after": "SOP: SOP Mandi Sore & Makan sore"
+    },
+    {
+      "id": "log-1789972727739-111",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah jadwal kegiatan \"Ashar & Aktivitas Mandiri\"",
+      "when": "2026-09-21 06:38:47",
+      "where": "Jadwal 24 Jam (14:00-17:00)",
+      "before": "",
+      "after": "SOP: SOP Sholat Ashar & Ekstrakurikuler"
+    },
+    {
+      "id": "log-1789972602581-992",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah jadwal kegiatan \"KBM Siang\"",
+      "when": "2026-09-21 06:36:42",
+      "where": "Jadwal 24 Jam (13:00-14:00)",
+      "before": "",
+      "after": "SOP: SOP Halaqah Siang"
+    },
+    {
+      "id": "log-1789972546861-844",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah jadwal kegiatan \"Dzuhur Berjamaah, Makan Siang & Qailulah\"",
+      "when": "2026-09-21 06:35:46",
+      "where": "Jadwal 24 Jam (11:30-13:00)",
+      "before": "",
+      "after": "SOP: SOP Dzuhur & Qailulah (Istirahat Siang)"
+    },
+    {
+      "id": "log-1789972539657-812",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah jadwal kegiatan \"Dzuhur Berjamaah, Makan Siang & Qailulah\"",
+      "when": "2026-09-21 06:35:39",
+      "where": "Jadwal 24 Jam (11:30-13:00)",
+      "before": "",
+      "after": "SOP: SOP Dzuhur & Qailulah (Istirahat Siang)"
+    },
+    {
+      "id": "log-1789972463049-930",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah jadwal kegiatan \"KBM 1\"",
+      "when": "2026-09-21 06:34:23",
+      "where": "Jadwal 24 Jam (08:00-11:30)",
+      "before": "",
+      "after": "SOP: KBM"
+    },
+    {
+      "id": "log-1789972360684-468",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan jadwal kegiatan baru \"KBM 1\"",
+      "when": "2026-09-21 06:32:40",
+      "where": "Jadwal 24 Jam (08:00-11:30)",
+      "before": "-",
+      "after": "Kategori: HARIAN"
+    },
+    {
+      "id": "log-1789972310438-405",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus jadwal kegiatan \"Kegiatan Belajar Mengajar (KBM)\"",
+      "when": "2026-09-21 06:31:50",
+      "where": "Jadwal 24 Jam",
+      "before": "Kegiatan Belajar Mengajar (KBM)",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1789972263958-200",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan jadwal kegiatan baru \"Makan dan  Mandi pagi\"",
+      "when": "2026-09-21 06:31:03",
+      "where": "Jadwal 24 Jam (07:00-07:45)",
+      "before": "-",
+      "after": "Kategori: HARIAN"
+    },
+    {
+      "id": "log-1789971959027-82",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah jadwal kegiatan \"Piket Pagi\"",
+      "when": "2026-09-21 06:25:59",
+      "where": "Jadwal 24 Jam (06:30-07:00)",
+      "before": "",
+      "after": "SOP: SOP PiketPagi"
+    },
+    {
+      "id": "log-1789971774929-16",
+      "who": "Hendra Syam (Super Admin)",
+      "role": "SUPER_ADMIN",
+      "what": "Menghapus jadwal kegiatan \"Mandi & Sarapan Pagi\"",
+      "when": "2026-09-21 06:22:54",
+      "where": "Jadwal 24 Jam",
+      "before": "Mandi & Sarapan Pagi",
+      "after": "DIHAPUS"
+    },
+    {
+      "id": "log-1789971397905-271",
+      "who": "Admin Sistem Almaa",
+      "role": "SUPER_ADMIN",
+      "what": "Mengubah jadwal kegiatan \"Halaqoh Qur'an Pagi\"",
+      "when": "2026-09-21 06:16:37",
+      "where": "Jadwal 24 Jam (05:30-06:30)",
+      "before": "",
+      "after": "SOP: SOP Halaqoh pagi"
+    },
+    {
+      "id": "log-1789971249567-335",
+      "who": "Admin Sistem Almaa",
+      "role": "SUPER_ADMIN",
+      "what": "Menambahkan jadwal kegiatan baru \"Piket Sore\"",
+      "when": "2026-09-21 06:14:09",
+      "where": "Jadwal 24 Jam (06:30-07:00)",
+      "before": "-",
+      "after": "Kategori: HARIAN"
+    },
+    {
+      "id": "log-1789716734412-745",
+      "who": "UPDATE_SCHEDULE",
+      "role": "Super Admin",
+      "what": "SUPER_ADMIN",
+      "when": "2026-09-18 07:32:14",
+      "where": "Mengubah jadwal kegiatan \"Bangun & Qiyamul Lail (Tahajjud)\" (04:00-04:15)",
+      "before": "",
+      "after": ""
+    },
+    {
+      "id": "log-1789715881862-970",
+      "who": "System",
+      "role": "ADMIN",
+      "what": "Reset Waktu ke Jam Nyata",
+      "when": "2026-09-18 07:18:01",
+      "where": "Time Engine",
+      "before": "-",
+      "after": "Live Realtime Clock"
+    },
+    {
+      "id": "log-1789715876904-879",
+      "who": "System",
+      "role": "ADMIN",
+      "what": "Set Waktu Simulasi: 04:30",
+      "when": "2026-09-18 07:17:56",
+      "where": "Time Engine",
+      "before": "-",
+      "after": "04:30"
+    },
+    {
+      "id": "log-1789714865481-515",
+      "who": "Ust. Ahmad Fauzi",
+      "role": "PENGASUH",
+      "what": "Inspeksi Kamar 04 (Kamar Ali bin Abi Thalib)",
+      "when": "2026-09-18 07:01:05",
+      "where": "Kamar 04",
+      "before": "Skor Sebelumnya: 91",
+      "after": "Skor Baru: 89 (NORMAL)"
+    },
+    {
+      "id": "log-1789713832013-146",
+      "who": "Ust. Ahmad Fauzi",
+      "role": "PENGASUH",
+      "what": "Melakukan checklist SOP: Kebersihan Pagi & Piket Kamar",
+      "when": "2026-09-18 06:43:52",
+      "where": "Aktivitas: Kebersihan Pagi & Piket Kamar",
+      "before": "Status: PENDING",
+      "after": "Status: COMPLETE"
+    },
+    {
+      "id": "log-1789713792052-329",
+      "who": "System",
+      "role": "ADMIN",
+      "what": "Set Waktu Simulasi: 05:37",
+      "when": "2026-09-18 06:43:12",
+      "where": "Time Engine",
+      "before": "-",
+      "after": "05:37"
+    },
+    {
+      "id": "log-1789713782977-842",
+      "who": "System",
+      "role": "ADMIN",
+      "what": "Set Waktu Simulasi: 05:37",
+      "when": "2026-09-18 06:43:02",
+      "where": "Time Engine",
+      "before": "-",
+      "after": "05:37"
+    },
+    {
+      "id": "log-1789713780370-14",
+      "who": "System",
+      "role": "ADMIN",
+      "what": "Reset Waktu ke Jam Nyata",
+      "when": "2026-09-18 06:43:00",
+      "where": "Time Engine",
+      "before": "-",
+      "after": "Live Realtime Clock"
+    },
+    {
+      "id": "log-1789713771794-615",
+      "who": "System",
+      "role": "ADMIN",
+      "what": "Reset Waktu ke Jam Nyata",
+      "when": "2026-09-18 06:42:51",
+      "where": "Time Engine",
+      "before": "-",
+      "after": "Live Realtime Clock"
+    },
+    {
+      "id": "log-1789713142719-409",
+      "who": "System",
+      "role": "ADMIN",
+      "what": "Set Waktu Simulasi: 05:37",
+      "when": "2026-09-18 06:32:22",
+      "where": "Time Engine",
+      "before": "-",
+      "after": "05:37"
+    },
+    {
+      "id": "log-1789713138157-396",
+      "who": "System",
+      "role": "ADMIN",
+      "what": "Set Waktu Simulasi: 04:00",
+      "when": "2026-09-18 06:32:18",
+      "where": "Time Engine",
+      "before": "-",
+      "after": "04:00"
+    },
+    {
+      "id": "log-1789713068928-570",
+      "who": "Ust. Ahmad Fauzi",
+      "role": "PENGASUH",
+      "what": "🚨 LAPOR KEJADIAN DARURAT: Ramdhan muntah darah",
+      "when": "2026-09-18 06:31:08",
+      "where": "Kamar 01",
+      "before": "-",
+      "after": "Prioritas: HIGH"
+    },
+    {
+      "id": "log-1789712978602-59",
+      "who": "System",
+      "role": "ADMIN",
+      "what": "Set Waktu Simulasi: 04:00",
+      "when": "2026-09-18 06:29:38",
+      "where": "Time Engine",
+      "before": "-",
+      "after": "04:00"
+    },
+    {
+      "id": "log-1",
+      "who": "Ust. Ahmad Fauzi",
+      "role": "PENGASUH",
+      "what": "Menyelesaikan SOP Kebersihan Pagi & Checking Kamar 01",
+      "when": "2026-09-17 05:45:12",
+      "where": "Kamar 01",
+      "before": "Status: PENDING",
+      "after": "Status: SOP COMPLETE (Skor 95)"
+    },
+    {
+      "id": "log-2",
+      "who": "Ust. Ahmad Fauzi",
+      "role": "PENGASUH",
+      "what": "Mencatat Pelanggaran Disiplin Santri Zaidan Bilal Ramadhan",
+      "when": "2026-09-17 05:15:30",
+      "where": "Masjid Jami' Al-Ittihad",
+      "before": "-",
+      "after": "Level 2: Terlambat Sholat Subuh (Tindak Lanjut Pembinaan)"
+    },
+    {
+      "id": "log-3",
+      "who": "Ust. Budi Prasetyo",
+      "role": "PENGASUH",
+      "what": "Melakukan Handover Shift Pagi kepada Ust. Ahmad Fauzi",
+      "when": "2026-09-17 04:05:00",
+      "where": "Kantor Pengasuhan",
+      "before": "Shift Malam (04.00)",
+      "after": "Shift Pagi Diakui (Acknowledged)"
+    },
+    {
+      "id": "log-4",
+      "who": "Ust. Candra Wijaya",
+      "role": "PENGASUH",
+      "what": "Membuat Tiket Kerusakan Fasilitas Kamar 03",
+      "when": "2026-09-16 21:15:20",
+      "where": "Kamar 03",
+      "before": "-",
+      "after": "Tiket FAC-0089: Lampu kamar mati dilaporkan ke teknisi"
+    }
+  ],
+  "roomInspections": [
+    {
+      "roomId": "room-4",
+      "roomNumber": "04",
+      "date": "2026-09-18",
+      "time": "05:37",
+      "inspectorName": "Ust. Ahmad Fauzi",
+      "scoreClean": 85,
+      "scoreTidy": 85,
+      "scoreOrderly": 90,
+      "scoreSafety": 95,
+      "overallScore": 89,
+      "notes": "",
+      "hasFacilityIssue": false,
+      "id": "rinsp-1789714865481",
+      "createdAt": "2026-09-18T07:01:05.481Z"
+    }
+  ],
+  "habitLogs": {
+    "st-10": {
+      "studentId": "st-10",
+      "date": "2026-09-17",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun Tepat Waktu (04.00)",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh",
+          "label": "Subuh Berjamaah di Shaf Pertama/Awal",
+          "status": "DONE"
+        },
+        {
+          "key": "piket",
+          "label": "Piket Kebersihan Kamar",
+          "status": "DONE"
+        },
+        {
+          "key": "tidy",
+          "label": "Kamar Rapi & Ranjang Tertata",
+          "status": "DONE"
+        },
+        {
+          "key": "study",
+          "label": "Hadir KBM & Ta'lim Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "adab",
+          "label": "Adab Berbicara & Sopan Santun",
+          "status": "DONE"
+        }
+      ]
+    },
+    "st-11": {
+      "studentId": "st-11",
+      "date": "2026-09-17",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun Tepat Waktu (04.00)",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh",
+          "label": "Subuh Berjamaah di Shaf Pertama/Awal",
+          "status": "DONE"
+        },
+        {
+          "key": "piket",
+          "label": "Piket Kebersihan Kamar",
+          "status": "DONE"
+        },
+        {
+          "key": "tidy",
+          "label": "Kamar Rapi & Ranjang Tertata",
+          "status": "DONE"
+        },
+        {
+          "key": "study",
+          "label": "Hadir KBM & Ta'lim Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "adab",
+          "label": "Adab Berbicara & Sopan Santun",
+          "status": "DONE"
+        }
+      ]
+    },
+    "st-12": {
+      "studentId": "st-12",
+      "date": "2026-09-17",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun Tepat Waktu (04.00)",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh",
+          "label": "Subuh Berjamaah di Shaf Pertama/Awal",
+          "status": "DONE"
+        },
+        {
+          "key": "piket",
+          "label": "Piket Kebersihan Kamar",
+          "status": "DONE"
+        },
+        {
+          "key": "tidy",
+          "label": "Kamar Rapi & Ranjang Tertata",
+          "status": "DONE"
+        },
+        {
+          "key": "study",
+          "label": "Hadir KBM & Ta'lim Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "adab",
+          "label": "Adab Berbicara & Sopan Santun",
+          "status": "DONE"
+        }
+      ]
+    },
+    "st-13": {
+      "studentId": "st-13",
+      "date": "2026-09-17",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun Tepat Waktu (04.00)",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh",
+          "label": "Subuh Berjamaah di Shaf Pertama/Awal",
+          "status": "DONE"
+        },
+        {
+          "key": "piket",
+          "label": "Piket Kebersihan Kamar",
+          "status": "DONE"
+        },
+        {
+          "key": "tidy",
+          "label": "Kamar Rapi & Ranjang Tertata",
+          "status": "DONE"
+        },
+        {
+          "key": "study",
+          "label": "Hadir KBM & Ta'lim Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "adab",
+          "label": "Adab Berbicara & Sopan Santun",
+          "status": "DONE"
+        }
+      ]
+    },
+    "st-14": {
+      "studentId": "st-14",
+      "date": "2026-09-17",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun Tepat Waktu (04.00)",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh",
+          "label": "Subuh Berjamaah di Shaf Pertama/Awal",
+          "status": "DONE"
+        },
+        {
+          "key": "piket",
+          "label": "Piket Kebersihan Kamar",
+          "status": "DONE"
+        },
+        {
+          "key": "tidy",
+          "label": "Kamar Rapi & Ranjang Tertata",
+          "status": "DONE"
+        },
+        {
+          "key": "study",
+          "label": "Hadir KBM & Ta'lim Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "adab",
+          "label": "Adab Berbicara & Sopan Santun",
+          "status": "DONE"
+        }
+      ]
+    },
+    "st-15": {
+      "studentId": "st-15",
+      "date": "2026-09-17",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun Tepat Waktu (04.00)",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh",
+          "label": "Subuh Berjamaah di Shaf Pertama/Awal",
+          "status": "DONE"
+        },
+        {
+          "key": "piket",
+          "label": "Piket Kebersihan Kamar",
+          "status": "DONE"
+        },
+        {
+          "key": "tidy",
+          "label": "Kamar Rapi & Ranjang Tertata",
+          "status": "DONE"
+        },
+        {
+          "key": "study",
+          "label": "Hadir KBM & Ta'lim Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "adab",
+          "label": "Adab Berbicara & Sopan Santun",
+          "status": "DONE"
+        }
+      ]
+    },
+    "st-16": {
+      "studentId": "st-16",
+      "date": "2026-09-17",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun Tepat Waktu (04.00)",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh",
+          "label": "Subuh Berjamaah di Shaf Pertama/Awal",
+          "status": "DONE"
+        },
+        {
+          "key": "piket",
+          "label": "Piket Kebersihan Kamar",
+          "status": "DONE"
+        },
+        {
+          "key": "tidy",
+          "label": "Kamar Rapi & Ranjang Tertata",
+          "status": "DONE"
+        },
+        {
+          "key": "study",
+          "label": "Hadir KBM & Ta'lim Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "adab",
+          "label": "Adab Berbicara & Sopan Santun",
+          "status": "DONE"
+        }
+      ]
+    },
+    "st-17": {
+      "studentId": "st-17",
+      "date": "2026-09-17",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun Tepat Waktu (04.00)",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh",
+          "label": "Subuh Berjamaah di Shaf Pertama/Awal",
+          "status": "DONE"
+        },
+        {
+          "key": "piket",
+          "label": "Piket Kebersihan Kamar",
+          "status": "DONE"
+        },
+        {
+          "key": "tidy",
+          "label": "Kamar Rapi & Ranjang Tertata",
+          "status": "DONE"
+        },
+        {
+          "key": "study",
+          "label": "Hadir KBM & Ta'lim Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "adab",
+          "label": "Adab Berbicara & Sopan Santun",
+          "status": "DONE"
+        }
+      ]
+    },
+    "st-18": {
+      "studentId": "st-18",
+      "date": "2026-09-17",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun Tepat Waktu (04.00)",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh",
+          "label": "Subuh Berjamaah di Shaf Pertama/Awal",
+          "status": "DONE"
+        },
+        {
+          "key": "piket",
+          "label": "Piket Kebersihan Kamar",
+          "status": "DONE"
+        },
+        {
+          "key": "tidy",
+          "label": "Kamar Rapi & Ranjang Tertata",
+          "status": "DONE"
+        },
+        {
+          "key": "study",
+          "label": "Hadir KBM & Ta'lim Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "adab",
+          "label": "Adab Berbicara & Sopan Santun",
+          "status": "DONE"
+        }
+      ]
+    },
+    "st-19": {
+      "studentId": "st-19",
+      "date": "2026-09-17",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun Tepat Waktu (04.00)",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh",
+          "label": "Subuh Berjamaah di Shaf Pertama/Awal",
+          "status": "DONE"
+        },
+        {
+          "key": "piket",
+          "label": "Piket Kebersihan Kamar",
+          "status": "DONE"
+        },
+        {
+          "key": "tidy",
+          "label": "Kamar Rapi & Ranjang Tertata",
+          "status": "DONE"
+        },
+        {
+          "key": "study",
+          "label": "Hadir KBM & Ta'lim Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "adab",
+          "label": "Adab Berbicara & Sopan Santun",
+          "status": "DONE"
+        }
+      ]
+    },
+    "st-20": {
+      "studentId": "st-20",
+      "date": "2026-09-17",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun Tepat Waktu (04.00)",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh",
+          "label": "Subuh Berjamaah di Shaf Pertama/Awal",
+          "status": "DONE"
+        },
+        {
+          "key": "piket",
+          "label": "Piket Kebersihan Kamar",
+          "status": "DONE"
+        },
+        {
+          "key": "tidy",
+          "label": "Kamar Rapi & Ranjang Tertata",
+          "status": "DONE"
+        },
+        {
+          "key": "study",
+          "label": "Hadir KBM & Ta'lim Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "adab",
+          "label": "Adab Berbicara & Sopan Santun",
+          "status": "DONE"
+        }
+      ]
+    },
+    "std-1789980552785-452": {
+      "studentId": "std-1789980552785-452",
+      "studentName": "Muhammad yusuf ramadhan",
+      "date": "2026-09-21",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun 04.00 Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "tahajjud",
+          "label": "Shalat Tahajjud & Witir",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh_jamaah",
+          "label": "Shalat Subuh Berjamaah di Shaf Depan",
+          "status": "DONE"
+        },
+        {
+          "key": "al_matsurat",
+          "label": "Dzikir Pagi Al-Ma’tsurat",
+          "status": "DONE"
+        },
+        {
+          "key": "bed_neat",
+          "label": "Ranjang Rapi & Seprai Kencang",
+          "status": "DONE"
+        },
+        {
+          "key": "shower_ready",
+          "label": "Mandi & Siap KBM sebelum 06.30",
+          "status": "DONE"
+        },
+        {
+          "key": "tahfidz_morning",
+          "label": "Ziyadah / Murajaah 1 Juz",
+          "status": "DONE"
+        }
+      ]
+    },
+    "std-1789980600304-215": {
+      "studentId": "std-1789980600304-215",
+      "studentName": "Muhammad Malik akil",
+      "date": "2026-09-21",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun 04.00 Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "tahajjud",
+          "label": "Shalat Tahajjud & Witir",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh_jamaah",
+          "label": "Shalat Subuh Berjamaah di Shaf Depan",
+          "status": "DONE"
+        },
+        {
+          "key": "al_matsurat",
+          "label": "Dzikir Pagi Al-Ma’tsurat",
+          "status": "DONE"
+        },
+        {
+          "key": "bed_neat",
+          "label": "Ranjang Rapi & Seprai Kencang",
+          "status": "DONE"
+        },
+        {
+          "key": "shower_ready",
+          "label": "Mandi & Siap KBM sebelum 06.30",
+          "status": "DONE"
+        },
+        {
+          "key": "tahfidz_morning",
+          "label": "Ziyadah / Murajaah 1 Juz",
+          "status": "DONE"
+        }
+      ]
+    },
+    "std-1789980645584-254": {
+      "studentId": "std-1789980645584-254",
+      "studentName": "Muhammad damarudin dahlan",
+      "date": "2026-09-21",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun 04.00 Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "tahajjud",
+          "label": "Shalat Tahajjud & Witir",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh_jamaah",
+          "label": "Shalat Subuh Berjamaah di Shaf Depan",
+          "status": "DONE"
+        },
+        {
+          "key": "al_matsurat",
+          "label": "Dzikir Pagi Al-Ma’tsurat",
+          "status": "DONE"
+        },
+        {
+          "key": "bed_neat",
+          "label": "Ranjang Rapi & Seprai Kencang",
+          "status": "DONE"
+        },
+        {
+          "key": "shower_ready",
+          "label": "Mandi & Siap KBM sebelum 06.30",
+          "status": "DONE"
+        },
+        {
+          "key": "tahfidz_morning",
+          "label": "Ziyadah / Murajaah 1 Juz",
+          "status": "DONE"
+        }
+      ]
+    },
+    "std-1789980676384-232": {
+      "studentId": "std-1789980676384-232",
+      "studentName": "Zafran Alkhairi",
+      "date": "2026-09-21",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun 04.00 Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "tahajjud",
+          "label": "Shalat Tahajjud & Witir",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh_jamaah",
+          "label": "Shalat Subuh Berjamaah di Shaf Depan",
+          "status": "DONE"
+        },
+        {
+          "key": "al_matsurat",
+          "label": "Dzikir Pagi Al-Ma’tsurat",
+          "status": "DONE"
+        },
+        {
+          "key": "bed_neat",
+          "label": "Ranjang Rapi & Seprai Kencang",
+          "status": "DONE"
+        },
+        {
+          "key": "shower_ready",
+          "label": "Mandi & Siap KBM sebelum 06.30",
+          "status": "DONE"
+        },
+        {
+          "key": "tahfidz_morning",
+          "label": "Ziyadah / Murajaah 1 Juz",
+          "status": "DONE"
+        }
+      ]
+    },
+    "std-1789980719319-579": {
+      "studentId": "std-1789980719319-579",
+      "studentName": "Ibrahim",
+      "date": "2026-09-21",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun 04.00 Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "tahajjud",
+          "label": "Shalat Tahajjud & Witir",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh_jamaah",
+          "label": "Shalat Subuh Berjamaah di Shaf Depan",
+          "status": "DONE"
+        },
+        {
+          "key": "al_matsurat",
+          "label": "Dzikir Pagi Al-Ma’tsurat",
+          "status": "DONE"
+        },
+        {
+          "key": "bed_neat",
+          "label": "Ranjang Rapi & Seprai Kencang",
+          "status": "DONE"
+        },
+        {
+          "key": "shower_ready",
+          "label": "Mandi & Siap KBM sebelum 06.30",
+          "status": "DONE"
+        },
+        {
+          "key": "tahfidz_morning",
+          "label": "Ziyadah / Murajaah 1 Juz",
+          "status": "DONE"
+        }
+      ]
+    },
+    "std-1789980771077-498": {
+      "studentId": "std-1789980771077-498",
+      "studentName": "Rofiq Al Akhyar",
+      "date": "2026-09-21",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun 04.00 Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "tahajjud",
+          "label": "Shalat Tahajjud & Witir",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh_jamaah",
+          "label": "Shalat Subuh Berjamaah di Shaf Depan",
+          "status": "DONE"
+        },
+        {
+          "key": "al_matsurat",
+          "label": "Dzikir Pagi Al-Ma’tsurat",
+          "status": "DONE"
+        },
+        {
+          "key": "bed_neat",
+          "label": "Ranjang Rapi & Seprai Kencang",
+          "status": "DONE"
+        },
+        {
+          "key": "shower_ready",
+          "label": "Mandi & Siap KBM sebelum 06.30",
+          "status": "DONE"
+        },
+        {
+          "key": "tahfidz_morning",
+          "label": "Ziyadah / Murajaah 1 Juz",
+          "status": "DONE"
+        }
+      ]
+    },
+    "std-1789980806385-624": {
+      "studentId": "std-1789980806385-624",
+      "studentName": "Rakha Hamdi",
+      "date": "2026-09-21",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun 04.00 Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "tahajjud",
+          "label": "Shalat Tahajjud & Witir",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh_jamaah",
+          "label": "Shalat Subuh Berjamaah di Shaf Depan",
+          "status": "DONE"
+        },
+        {
+          "key": "al_matsurat",
+          "label": "Dzikir Pagi Al-Ma’tsurat",
+          "status": "DONE"
+        },
+        {
+          "key": "bed_neat",
+          "label": "Ranjang Rapi & Seprai Kencang",
+          "status": "DONE"
+        },
+        {
+          "key": "shower_ready",
+          "label": "Mandi & Siap KBM sebelum 06.30",
+          "status": "DONE"
+        },
+        {
+          "key": "tahfidz_morning",
+          "label": "Ziyadah / Murajaah 1 Juz",
+          "status": "DONE"
+        }
+      ]
+    },
+    "std-1789980838282-373": {
+      "studentId": "std-1789980838282-373",
+      "studentName": "Muhammad Syafiq Ramadhan",
+      "date": "2026-09-21",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun 04.00 Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "tahajjud",
+          "label": "Shalat Tahajjud & Witir",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh_jamaah",
+          "label": "Shalat Subuh Berjamaah di Shaf Depan",
+          "status": "DONE"
+        },
+        {
+          "key": "al_matsurat",
+          "label": "Dzikir Pagi Al-Ma’tsurat",
+          "status": "DONE"
+        },
+        {
+          "key": "bed_neat",
+          "label": "Ranjang Rapi & Seprai Kencang",
+          "status": "DONE"
+        },
+        {
+          "key": "shower_ready",
+          "label": "Mandi & Siap KBM sebelum 06.30",
+          "status": "DONE"
+        },
+        {
+          "key": "tahfidz_morning",
+          "label": "Ziyadah / Murajaah 1 Juz",
+          "status": "DONE"
+        }
+      ]
+    },
+    "std-1789980975867-861": {
+      "studentId": "std-1789980975867-861",
+      "studentName": "Lukman Hakim",
+      "date": "2026-09-21",
+      "habits": [
+        {
+          "key": "wake_up",
+          "label": "Bangun 04.00 Tepat Waktu",
+          "status": "DONE"
+        },
+        {
+          "key": "tahajjud",
+          "label": "Shalat Tahajjud & Witir",
+          "status": "DONE"
+        },
+        {
+          "key": "subuh_jamaah",
+          "label": "Shalat Subuh Berjamaah di Shaf Depan",
+          "status": "DONE"
+        },
+        {
+          "key": "al_matsurat",
+          "label": "Dzikir Pagi Al-Ma’tsurat",
+          "status": "DONE"
+        },
+        {
+          "key": "bed_neat",
+          "label": "Ranjang Rapi & Seprai Kencang",
+          "status": "DONE"
+        },
+        {
+          "key": "shower_ready",
+          "label": "Mandi & Siap KBM sebelum 06.30",
+          "status": "DONE"
+        },
+        {
+          "key": "tahfidz_morning",
+          "label": "Ziyadah / Murajaah 1 Juz",
+          "status": "DONE"
+        }
+      ]
+    }
+  },
+  "simulatedTime": null,
+  "habits": []
+}
